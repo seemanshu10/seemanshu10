@@ -52,11 +52,11 @@ A Technical Director (TD) with a strong background in Maya Rigging and technical
 ---
 
 ## Contact Info
-- [GitHub Link](https://github.com/seemanshu10)  
-- [LinkedIn Link](https://www.linkedin.com/in/seemanshu-verma-52157b163/)
 - Email: seemanshu0409v@gmail.com
 - Contact : +91-7800526420
 ---
 
 ## Fun Fact
 > I enjoy solving complex technical challenges and turning creative ideas into solutions.
+
+> Have Great interest in learning new technologies.
