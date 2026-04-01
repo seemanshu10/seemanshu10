@@ -1,4 +1,19 @@
-# Hello There 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Seemanshu+Verma;Python+Developer+%7C+Technical+Director;Building+Tools;" alt="Typing SVG" />
+  </a>
+</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seemanshu-verma-52157b163">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/seemanshu10">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+
 
 ## **About Me** 
 A Technical Director (TD) with a strong background in Maya Rigging and technical execution. Experienced in building Tools, optimizing workflows, and leading cross-functional teams in delivering high-quality projects.  
