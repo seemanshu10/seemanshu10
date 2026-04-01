@@ -49,6 +49,21 @@ A Technical Director (TD) with a strong background in Maya Rigging and technical
 | GGJ2022 | A fun game created in unity | [GGJ2022](https://github.com/seemanshu10/GGJ2020) |
 
 
+## GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/seemanshu10">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seemanshu10&theme=tokyonight" alt="GitHub Profile Summary"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Seemanshu10&theme=tokyonight" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Seemanshu10&theme=tokyonight&utcOffset=5.5" height="150"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,25&height=1.5" width="100%">
+
 ---
 
 ## Contact Info
