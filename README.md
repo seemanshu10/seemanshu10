@@ -32,7 +32,13 @@ A Technical Director (TD) with a strong background in Maya Rigging and technical
 - Autodesk Maya (Rigging, Scripting, Tools Development)   
 - Unreal Engine / Unity  
 - Git & Version Control  
-- Linux / Shell Scripting  
+- Linux / Shell Scripting
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,unity,git,github,vscode,linux&theme=dark" alt="Languages"/>
+  </a>
+</p>
 
 
 ## Projects
