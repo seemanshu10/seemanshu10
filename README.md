@@ -33,10 +33,11 @@ A Technical Director (TD) with a strong background in Maya Rigging and technical
 - Unreal Engine / Unity  
 - Git & Version Control  
 - Linux / Shell Scripting
+- PySide / PyQt
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,unity,git,github,vscode,linux&theme=dark" alt="Languages"/>
+    <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,unity&theme=dark" alt="Languages"/>
   </a>
 </p>
 
@@ -45,6 +46,7 @@ A Technical Director (TD) with a strong background in Maya Rigging and technical
 
 | Project Name | Description | Link |
 |-------------|------------|------|
+| ShotTrack CLI | Shot Track CLI Tool | [ShotTrackCLI](https://github.com/seemanshu10/shot-track-cli-tool) |
 | Maya Tools for automation | Automated asset workflow to improve production efficiency | [MAYA TOOLS](https://github.com/seemanshu10/ToolsMAya) |
 | GGJ2022 | A fun game created in unity | [GGJ2022](https://github.com/seemanshu10/GGJ2020) |
 
